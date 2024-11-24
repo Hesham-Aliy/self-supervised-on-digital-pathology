@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+matplotlib
+Pillow
+GitPython
+git+https://github.com/albumentations-team/albumentations
+opencv-python-headless==4.5.2.52
+segmentation-models-pytorch
+torch
